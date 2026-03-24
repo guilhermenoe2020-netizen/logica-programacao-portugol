@@ -1,12 +1,12 @@
 
 // A senha verdadeira é "2002" qualquer uma diferente será inválida
 
-Algoritmo "senha"
+algoritmo "senha"
 
-Var
+var
 senha: inteiro
 
-Inicio
+inicio
 
 escreval("insira a senha")
 leia(senha)
@@ -19,4 +19,4 @@ fimenquanto
     escreval("acesso permitido")
   fimse
 
-Fimalgoritmo
+fimalgoritmo
