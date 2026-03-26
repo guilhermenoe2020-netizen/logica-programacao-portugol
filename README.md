@@ -8,4 +8,4 @@ Repositório com exercícios básicos de lógica de programação utilizando Por
 - Estruturas de repetição
 
 ## 🎯 Objetivo:
-Desenvolver a base lógica para aplicação em linguagens como C e JavaScript.
+Desenvolver a base lógica e guardar meus exercícios lógicos em Portugol.
